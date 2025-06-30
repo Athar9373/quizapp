@@ -1,1 +1,2 @@
 # quizapp
+Author - Athar Shaikh
