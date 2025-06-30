@@ -1,3 +1,4 @@
 # quizapp
+
 <br>
-Author - Athar Shaikh
+Author - Athar
